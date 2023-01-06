@@ -1,7 +1,7 @@
 # Parametric Functions
 
 #### Description:
-Below are 3 parametric functions I animated using Unity to learn Unity further.
+These are 3 parametric functions I animated to learn Unity further.
 
 First one is called Ripple and it is basically a sine wave. The twist is that every point's distance to origin is calculated and then integrated into the sine function.
 
