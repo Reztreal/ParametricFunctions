@@ -3,8 +3,8 @@
 #### Description:
 These are 3 parametric functions I animated to learn Unity further.
 
-<img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690955663.gif" width="200" height="200"/>
-<img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690951222.gif" width="200" height="200"/>
+<img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690955663.gif" width="200" height="200"/><img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690951222.gif" width="200" height="200"/>
+
 <img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690947495.gif" width="200" height="200"/>
 
 
