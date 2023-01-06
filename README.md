@@ -3,6 +3,10 @@
 #### Description:
 These are 3 parametric functions I animated to learn Unity further.
 
+![](https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690955663.gif)
+![](https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690951222.gif)
+![](https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690947495.gif)
+
 First one is called Ripple and it is basically a sine wave. The twist is that every point's distance to origin is calculated and then integrated into the sine function.
 
 Second one, while it may not be so obvious, is a sphere. You can think of a sphere as a "sum" of circles both vertical and horizontal. The animation is done by animating those vertical and horizontal circles with using your parameters and time as coefficients.
