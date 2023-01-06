@@ -3,9 +3,7 @@
 #### Description:
 These are 3 parametric functions I animated to learn Unity further.
 
-<img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690955663.gif" width="200" height="200"/><img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690951222.gif" width="200" height="200"/>
-
-<img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690947495.gif" width="200" height="200"/>
+<img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690955663.gif" width="300" height="300"/> <img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690951222.gif" width="300" height="300"/> <img src="https://github.com/Reztreal/ParametricFunctions/blob/master/Gifs%20./1672690947495.gif" width="300" height="300"/>
 
 
 First one is called Ripple and it is basically a sine wave. The twist is that every point's distance to origin is calculated and then integrated into the sine function.
